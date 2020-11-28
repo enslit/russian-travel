@@ -1,0 +1,25 @@
+/* Vendor */
+@import "../vendor/normalize.css";
+
+/* Fonts */
+@import "../fonts/inter.css";
+
+/* Page */
+@import "../blocks/page/page.css";
+
+/* Media queries */
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px)  {
+
+}
+
+@media screen and (max-width: 768px)  {
+
+}
+
+@media screen and (max-width: 425px)  {
+
+}
