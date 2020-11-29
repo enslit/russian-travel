@@ -4,8 +4,22 @@
 /* Fonts */
 @import "../fonts/inter.css";
 
+/* Blocks */
 /* Page */
 @import "../blocks/page/page.css";
+
+/* Header */
+@import "../blocks/header/header.css";
+
+/* Logo */
+@import "../blocks/logo/logo.css";
+@import "../blocks/logo/__img/logo__img.css";
+
+/* Language */
+@import "../blocks/language/language.css";
+@import "../blocks/language/__button/language__button.css";
+@import "../blocks/language/__button/_active/language__button_active.css";
+/* End Blocks */
 
 /* Media queries */
 @media screen and (max-width: 1280px) {

@@ -1,8 +1,5 @@
 .page {
     font-family: 'Inter', 'Arial', serif;
-    max-width: 1200px;
-    padding-left: 8px;
-    padding-right: 8px;
-    box-sizing: border-box;
-    margin: 0 auto;
+    background-color: #2A2C2F;
+    color: white;
 }
