@@ -43,6 +43,11 @@
 @import "../blocks/places/__description/places__description.css";
 @import "../blocks/places/__paragraph/places__paragraph.css";
 
+/* Cover */
+@import "../blocks/cover/cover.css";
+@import "../blocks/cover/__titile/cover__title.css";
+@import "../blocks/cover/__description/cover__description.css";
+
 /* Logo */
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/__img/logo__img.css";
