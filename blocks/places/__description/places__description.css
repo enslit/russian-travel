@@ -1,0 +1,6 @@
+.places__description {
+    display: grid;
+    grid-gap: 27px;
+    margin: 0;
+    align-content: start;
+}

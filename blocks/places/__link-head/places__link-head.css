@@ -1,0 +1,8 @@
+.places__link-head {
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: 0.2em;
+    color: #aaa;
+    margin: 0 0 14px 0;
+    text-transform: uppercase;
+}

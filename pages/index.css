@@ -31,6 +31,18 @@
 @import "../blocks/grid-gallery/__list-item/grid-gallery__list-item.css";
 @import "../blocks/grid-gallery/__image/grid-gallery__image.css";
 
+/* Places */
+@import "../blocks/places/places.css";
+@import "../blocks/places/__list/places__list.css";
+@import "../blocks/places/__place/places__place.css";
+@import "../blocks/places/__title/places__title.css";
+@import "../blocks/places/__url/places__url.css";
+@import "../blocks/places/__link-head/places__link-head.css";
+@import "../blocks/places/__link/places__link.css";
+@import "../blocks/places/__image/places__image.css";
+@import "../blocks/places/__description/places__description.css";
+@import "../blocks/places/__paragraph/places__paragraph.css";
+
 /* Logo */
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/__img/logo__img.css";
