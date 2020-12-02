@@ -25,6 +25,12 @@
 @import "../blocks/intro/__list/intro__list.css";
 @import "../blocks/intro/__list-item/intro__list-item.css";
 
+/* Grid-gallery */
+@import "../blocks/grid-gallery/grid-gallery.css";
+@import "../blocks/grid-gallery/__list/grid-gallery__list.css";
+@import "../blocks/grid-gallery/__list-item/grid-gallery__list-item.css";
+@import "../blocks/grid-gallery/__image/grid-gallery__image.css";
+
 /* Logo */
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/__img/logo__img.css";
