@@ -48,6 +48,18 @@
 @import "../blocks/cover/__titile/cover__title.css";
 @import "../blocks/cover/__description/cover__description.css";
 
+/* Footer */
+@import "../blocks/footer/footer.css";
+
+/* Nav */
+@import "../blocks/nav/nav.css";
+@import "../blocks/nav/__list/nav__list.css";
+@import "../blocks/nav/__item/nav__item.css";
+@import "../blocks/nav/__link/nav__link.css";
+
+/* Copyright */
+@import "../blocks/copyright/copyright.css";
+
 /* Logo */
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/__img/logo__img.css";
