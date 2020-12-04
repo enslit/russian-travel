@@ -4,6 +4,15 @@
     font-size: 72px;
     line-height: 1.06;
     text-align: center;
-    margin: 0;
-    z-index: 2;
+    margin: 0 0 32px 0;
+    position: relative;
+    text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 767px ){
+    .cover__title {
+        font-size: 32px;
+        line-height:1.09;
+        margin-bottom: 16px;
+    }
 }

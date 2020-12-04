@@ -1,0 +1,7 @@
+.language__item {
+    margin-right: 18px;
+}
+
+.language__item:last-of-type {
+    margin-right: 0;
+}

@@ -1,0 +1,21 @@
+.place__description {
+    display: grid;
+    grid-gap: 27px;
+    margin: 0;
+    align-content: start;
+    font-size: 18px;
+    line-height: 1.63;
+}
+
+@media screen and (max-width: 1023px){
+    .place__description {
+        font-size: 16px;
+        grid-gap: 25px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .place__description {
+        padding: 0 16px;
+    }
+}

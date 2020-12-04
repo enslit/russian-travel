@@ -1,7 +1,18 @@
 .grid-gallery {
-    box-sizing: border-box;
-    max-width: 1200px;
+    max-width: 1184px;
     margin: 0 auto;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding: 0 48px;
+}
+
+@media screen and (max-width: 1023px) {
+    .grid-gallery {
+        max-width: 928px;
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .grid-gallery {
+        padding: 0 16px;
+    }
 }

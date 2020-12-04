@@ -1,15 +1,10 @@
 .cover {
     position: relative;
-    max-width: 1200px;
-    box-sizing: border-box;
-    padding: 0 8px;
+    max-width: 1184px;
     margin: 0 auto;
     background: url("../../images/train-lines.jpg") center center no-repeat;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 740px;
+    height: 62.5vw;
+    max-height: 740px;
 }
 
 .cover::before {
@@ -23,10 +18,8 @@
     right: 0;
     background-color: #2a2c2f;
     opacity: .3;
-    z-index: 1;
 }
 
 .cover:hover.cover::before {
     opacity: .8;
-    cursor: pointer;
 }

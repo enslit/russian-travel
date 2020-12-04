@@ -6,3 +6,17 @@
     color: #fff;
     margin: 8px 0 0;
 }
+
+@media screen and (max-width: 1023px) {
+    .lead__image-sign {
+        max-width: 928px;
+        margin: 8px auto 0;
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__image-sign {
+        padding-left: 16px;
+    }
+}
