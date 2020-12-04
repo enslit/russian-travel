@@ -20,6 +20,7 @@
 @import "../blocks/intro/__title/intro__title.css";
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__list/intro__list.css";
+@import "../blocks/intro/__item-title/intro__item-title.css";
 /* Grid-gallery */
 @import "../blocks/grid-gallery/grid-gallery.css";
 @import "../blocks/grid-gallery/__list/grid-gallery__list.css";
