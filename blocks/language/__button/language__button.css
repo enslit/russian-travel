@@ -11,6 +11,11 @@
     text-decoration: none;
     padding: 0;
     cursor: pointer;
+    transition: opacity 300ms ease-in;
+}
+
+.language__button:hover {
+    opacity: .8;
 }
 
 @media screen and (max-width: 767px) {
