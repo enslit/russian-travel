@@ -9,6 +9,7 @@
 
 @media screen and (max-width: 767px ){
     .cover__description {
+        max-width: 257px;
         font-size: 14px;
         line-height: 1.14;
     }
