@@ -6,3 +6,5 @@
 * Grid
 * Адаптивность
 * БЭМ nested
+
+[Проект на Github Pages](https://enslit.github.io/russian-travel/)
