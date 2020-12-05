@@ -2,9 +2,10 @@
     position: relative;
     max-width: 1184px;
     margin: 0 auto;
+    display: flex;
     background: url("../../images/train-lines.jpg") center center no-repeat;
-    height: 62.5vw;
-    max-height: 740px;
+    background-size: contain;
+    min-height: 740px;
 }
 
 .cover::before {
@@ -22,4 +23,10 @@
 
 .cover:hover.cover::before {
     opacity: .8;
+}
+
+@media screen and (max-width: 1023px) {
+    .cover {
+        min-height: 62.5vw;
+    }
 }
